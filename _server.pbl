@@ -1,0 +1,11 @@
+title="Sam's Random Maps"
+type="map_pack"
+icon="terrain/forest/tropical/jungle-small.png"
+version="1.0.0"
+author="samiam"
+passphrase="mypwgen.sh add-ons.wesnoth.org"
+description="Some more random map templates for Wesnoth.
+Included are Forest, Palm, Tropical, and Huge templates.
+This is based on some templates developed between 2007 and 2010.
+"
+email="strenholme.usenet@gmail.com"
