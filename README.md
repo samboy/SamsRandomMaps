@@ -2,9 +2,9 @@ Between 2007 and 2010, I created four different random map templates
 for Battle for Wesnoth: Forest, Palm, Tropical, and Huge. I have finally
 put these maps in a proper Wesnoth add-on.
 
-*   Forest is a random map template I made 10 years ago today; it is now
-    in a proper add-on. This template has far fewer trees than the Forest
-    template in Ultimate Random Maps.
+*   Forest is a random map template I made in 2007; it is now in a proper 
+    add-on. This template has far fewer trees than the Forest template in 
+    Ultimate Random Maps.
 
 *   Palm, which makes randomly generated desert maps with lots of palm trees.
 
